@@ -2,7 +2,9 @@ Hostage Crime Scene Detection Using Deep Learning
 
 Mentored by: Dr. Raju Halder
 Course: CS389: Innovative Design Lab
+
 Video Demonstration: https://drive.google.com/file/d/1UPjHciPHlFgRKOiYOFvEr8jMNTn2aKFT/view?usp=sharing
+
 Presentation: https://docs.google.com/presentation/d/1-wqyl_ew_erSJ5sCK8KA83lIR-wx3_pC/edit?usp=sharing&ouid=106073243158613320134&rtpof=true&sd=true
 
 Project Overview
